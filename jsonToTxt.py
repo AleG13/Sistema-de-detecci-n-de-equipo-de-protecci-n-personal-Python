@@ -48,7 +48,7 @@ for filename in os.listdir(json_dir):
     # Obtener tamaño de imagen
     img_path = os.path.join(images_dir, data["imagePath"])
     if not os.path.exists(img_path):
-        print(f"⚠️ Imagen no encontrada: {img_path}. Se salta el archivo.")
+        print(f"Imagen no encontrada: {img_path}. Se salta el archivo.")
         continue
 
     img = Image.open(img_path)
@@ -76,3 +76,4 @@ for filename in os.listdir(json_dir):
         f.write("\n".join(yolo_lines))
 
     print(f"Generado: {txt_filename}")
+
