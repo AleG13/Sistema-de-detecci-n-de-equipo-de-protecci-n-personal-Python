@@ -1,3 +1,3 @@
-En cada carpeta en repositorio se encuentran los arhivos necesario y utlizadas para el desarrollo de proyecto.
-Principalmente los arhivos que nos permitiran manejar nuestro set de datos y acoplarlo a las necesidades del proyecto.
-Es neecesario tener cada arhivo .py dentro de la misma carpeta del donde se encutre el set de datos para realizar las modificaciones y pricipalmente el entrenamiento del sistema. 
+En cada carpeta del repositorio se encuentran los archivos necesarios y utilizados para el desarrollo del proyecto.
+Principalmente, los archivos que nos permitirán manejar nuestro conjunto de datos y adaptarlo a las necesidades del sistema.
+Es necesario tener cada archivo .py dentro de la misma carpeta donde se encuentra el conjunto de datos para realizar las modificaciones y, principalmente, el entrenamiento del modelo.
