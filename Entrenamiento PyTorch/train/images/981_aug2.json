@@ -1,0 +1,90 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    265.64224,
+                    209.27040000000002
+                ],
+                [
+                    343.18208000000004,
+                    299.51424000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    389.81471999999997,
+                    195.58752000000004
+                ],
+                [
+                    467.31808,
+                    283.73408
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    159.36000000000004,
+                    159.00863999999996
+                ],
+                [
+                    191.36512000000002,
+                    212.40127999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    482.74208000000004,
+                    174.48415999999997
+                ],
+                [
+                    510.10272000000003,
+                    216.05408
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    542.32608,
+                    165.67552
+                ],
+                [
+                    570.6953599999999,
+                    208.52096
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "981_aug2.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

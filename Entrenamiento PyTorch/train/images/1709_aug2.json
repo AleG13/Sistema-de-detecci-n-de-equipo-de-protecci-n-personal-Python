@@ -1,0 +1,26 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    366.31359999999995,
+                    55.304
+                ],
+                [
+                    512.2912,
+                    249.19519999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1709_aug2.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

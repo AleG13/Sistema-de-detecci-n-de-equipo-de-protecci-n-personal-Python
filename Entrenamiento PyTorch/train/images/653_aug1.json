@@ -1,0 +1,26 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    137.83328,
+                    250.94528000000003
+                ],
+                [
+                    272.47072,
+                    491.69536000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "653_aug1.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

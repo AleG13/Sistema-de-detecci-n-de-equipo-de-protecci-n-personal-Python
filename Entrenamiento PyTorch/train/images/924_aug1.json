@@ -1,0 +1,74 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    284.76959999999997,
+                    188.60511999999997
+                ],
+                [
+                    320.87392,
+                    252.68128
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    538.5926400000001,
+                    98.62431999999998
+                ],
+                [
+                    603.42336,
+                    197.90304
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    459.88032,
+                    216.40448
+                ],
+                [
+                    539.85728,
+                    362.58943999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    353.02783999999997,
+                    165.63327999999998
+                ],
+                [
+                    395.4854399999999,
+                    231.9872
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "924_aug1.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

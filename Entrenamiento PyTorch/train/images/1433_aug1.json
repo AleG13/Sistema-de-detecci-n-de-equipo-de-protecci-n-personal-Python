@@ -1,0 +1,74 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    310.7504,
+                    268.75008
+                ],
+                [
+                    491.25023999999996,
+                    543.24992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    40.75008000000001,
+                    282.50015999999994
+                ],
+                [
+                    211.24991999999997,
+                    564.5001599999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    80.49984,
+                    169.25024
+                ],
+                [
+                    176.49984,
+                    277.75007999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    364.75008,
+                    149.50016
+                ],
+                [
+                    459.24992,
+                    257.50016
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1433_aug1.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

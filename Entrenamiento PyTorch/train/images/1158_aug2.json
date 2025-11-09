@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    173.34848,
+                    190.59711999999996
+                ],
+                [
+                    343.76768000000004,
+                    331.21792
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    256.51743999999997,
+                    123.93983999999999
+                ],
+                [
+                    372.84064,
+                    193.92127999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1158_aug2.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

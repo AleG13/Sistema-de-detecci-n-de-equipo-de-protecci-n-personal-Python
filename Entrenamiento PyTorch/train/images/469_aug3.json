@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    308.14176000000003,
+                    285.5536
+                ],
+                [
+                    359.99264,
+                    350.056
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    428.29568,
+                    272.05152
+                ],
+                [
+                    460.2624,
+                    321.44736
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "469_aug3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

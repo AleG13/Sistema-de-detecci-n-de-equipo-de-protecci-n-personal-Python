@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    456.7497599999999,
+                    256.24992000000003
+                ],
+                [
+                    592.24992,
+                    364.74976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    235.50016,
+                    255.49984
+                ],
+                [
+                    352.49984,
+                    361.49984
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1002_aug3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

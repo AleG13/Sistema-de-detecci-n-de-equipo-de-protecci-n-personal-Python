@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    227.06463999999997,
+                    110.21663999999998
+                ],
+                [
+                    478.59424,
+                    361.11904
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    161.27519999999998,
+                    339.86176
+                ],
+                [
+                    638.0950399999999,
+                    640.0
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1762_aug2.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

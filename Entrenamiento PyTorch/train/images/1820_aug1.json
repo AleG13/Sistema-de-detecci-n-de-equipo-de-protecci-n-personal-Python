@@ -1,0 +1,42 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    180.77696000000003,
+                    130.7552
+                ],
+                [
+                    279.22816,
+                    248.99903999999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    305.90304000000003,
+                    103.35775999999998
+                ],
+                [
+                    459.54976,
+                    300.3184
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1820_aug1.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

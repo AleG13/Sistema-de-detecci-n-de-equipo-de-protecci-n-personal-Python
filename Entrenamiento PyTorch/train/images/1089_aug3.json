@@ -1,0 +1,122 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    234.43359999999996,
+                    337.94016
+                ],
+                [
+                    288.84448,
+                    430.56416
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    134.79168,
+                    324.89024
+                ],
+                [
+                    175.46624,
+                    407.4272
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    7.229760000000002,
+                    306.74336
+                ],
+                [
+                    60.070080000000004,
+                    418.07584
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    56.37184,
+                    340.68288
+                ],
+                [
+                    86.48256,
+                    411.52576000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Chaleco",
+            "points": [
+                [
+                    453.38271999999995,
+                    337.57056
+                ],
+                [
+                    496.27743999999996,
+                    422.44992
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    30.82784,
+                    265.26368
+                ],
+                [
+                    61.63808,
+                    306.5712
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    64.99904000000001,
+                    312.43424000000005
+                ],
+                [
+                    85.21024,
+                    340.90976
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1089_aug3.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

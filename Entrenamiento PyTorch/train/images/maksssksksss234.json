@@ -1,0 +1,90 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    175.0,
+                    67.5999
+                ],
+                [
+                    220.0,
+                    85.99995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    112.0,
+                    107.59994999999999
+                ],
+                [
+                    123.0,
+                    112.00005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    3.0,
+                    82.20015
+                ],
+                [
+                    12.0,
+                    89.00009999999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    388.0,
+                    128.6001
+                ],
+                [
+                    400.0,
+                    133.0002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    341.0,
+                    131.600025
+                ],
+                [
+                    352.0,
+                    136.000125
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss234.png",
+    "imageData": null,
+    "imageHeight": 225,
+    "imageWidth": 400
+}

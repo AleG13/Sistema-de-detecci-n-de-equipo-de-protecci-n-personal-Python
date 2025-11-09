@@ -1,0 +1,186 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    189.97184,
+                    177.50912000000002
+                ],
+                [
+                    228.68288,
+                    231.51360000000003
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    232.38240000000002,
+                    173.71104000000003
+                ],
+                [
+                    264.66336,
+                    226.43104
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    577.5004799999999,
+                    171.31999999999996
+                ],
+                [
+                    613.02368,
+                    225.13312
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    491.4768,
+                    191.94783999999999
+                ],
+                [
+                    524.07264,
+                    241.09152
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    531.9872,
+                    187.36223999999999
+                ],
+                [
+                    566.20416,
+                    237.05248
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    530.7798399999999,
+                    109.20736
+                ],
+                [
+                    561.83584,
+                    159.15744
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    483.37055999999995,
+                    125.34752000000002
+                ],
+                [
+                    510.75167999999996,
+                    166.98784
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    447.73760000000004,
+                    130.89632
+                ],
+                [
+                    473.36192000000005,
+                    169.73471999999998
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    422.13791999999995,
+                    195.26463999999999
+                ],
+                [
+                    453.2208,
+                    245.66591999999997
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    299.64096,
+                    165.51584
+                ],
+                [
+                    332.87615999999997,
+                    216.49504
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Casco_Mascarrilla",
+            "points": [
+                [
+                    78.45248,
+                    165.63168
+                ],
+                [
+                    116.34432,
+                    223.63168
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "14_aug2.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

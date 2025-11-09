@@ -1,0 +1,106 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    79.0,
+                    60.599958
+                ],
+                [
+                    97.0,
+                    69.000038
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    116.0,
+                    91.80002999999999
+                ],
+                [
+                    134.0,
+                    100.99993
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    161.0,
+                    89.199827
+                ],
+                [
+                    179.0,
+                    95.99987300000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    192.99999999999997,
+                    66.79994199999999
+                ],
+                [
+                    208.99999999999997,
+                    75.999842
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    327.0,
+                    48.000035000000004
+                ],
+                [
+                    361.0,
+                    63.999981
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    345.0,
+                    111.6000075
+                ],
+                [
+                    379.0,
+                    128.00006050000002
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss363.png",
+    "imageData": null,
+    "imageHeight": 197,
+    "imageWidth": 400
+}

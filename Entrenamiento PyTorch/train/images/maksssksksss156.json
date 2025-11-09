@@ -1,0 +1,74 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    327.0,
+                    48.600007500000004
+                ],
+                [
+                    352.0,
+                    58.999924500000006
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    27.0,
+                    57.80016
+                ],
+                [
+                    47.0,
+                    65.00008199999999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    249.0,
+                    55.000131
+                ],
+                [
+                    268.0,
+                    62.999985
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    278.0,
+                    81.39975600000001
+                ],
+                [
+                    291.0,
+                    86.999814
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss156.png",
+    "imageData": null,
+    "imageHeight": 267,
+    "imageWidth": 400
+}

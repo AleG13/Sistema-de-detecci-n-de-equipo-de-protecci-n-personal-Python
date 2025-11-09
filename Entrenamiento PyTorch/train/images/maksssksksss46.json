@@ -1,0 +1,170 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    16.999999999999996,
+                    50.199798
+                ],
+                [
+                    41.0,
+                    58.999786
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    68.0,
+                    31.199977999999998
+                ],
+                [
+                    87.0,
+                    37.999866
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    114.0,
+                    41.600046
+                ],
+                [
+                    132.0,
+                    47.999914
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    147.0,
+                    44.19995
+                ],
+                [
+                    170.0,
+                    52.999938
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    207.0,
+                    30.199927999999996
+                ],
+                [
+                    223.0,
+                    36.999815999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    237.99999999999997,
+                    36.600022
+                ],
+                [
+                    250.99999999999997,
+                    42.99989
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    267.0,
+                    34.800045
+                ],
+                [
+                    282.0,
+                    40.000079
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    287.0,
+                    32.200028
+                ],
+                [
+                    302.0,
+                    38.999916
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    326.0,
+                    42.60009599999999
+                ],
+                [
+                    348.0,
+                    51.000063999999995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    357.0,
+                    37.800082
+                ],
+                [
+                    375.0,
+                    44.99999
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss46.png",
+    "imageData": null,
+    "imageHeight": 226,
+    "imageWidth": 400
+}

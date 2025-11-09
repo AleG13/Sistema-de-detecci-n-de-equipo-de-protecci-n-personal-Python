@@ -1,0 +1,90 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    123.0,
+                    76.599897
+                ],
+                [
+                    143.0,
+                    82.999887
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    167.0,
+                    122.40000900000001
+                ],
+                [
+                    183.0,
+                    128.000067
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    225.00000000000003,
+                    69.599958
+                ],
+                [
+                    240.00000000000003,
+                    75.999948
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    261.0,
+                    75.20001599999999
+                ],
+                [
+                    277.0,
+                    81.999972
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    330.0,
+                    41.599934999999995
+                ],
+                [
+                    362.0,
+                    55.999779
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss336.png",
+    "imageData": null,
+    "imageHeight": 267,
+    "imageWidth": 400
+}

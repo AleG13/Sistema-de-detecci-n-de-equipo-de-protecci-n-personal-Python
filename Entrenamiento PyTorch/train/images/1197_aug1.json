@@ -1,0 +1,170 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    500.89887999999996,
+                    397.47103999999996
+                ],
+                [
+                    567.11392,
+                    494.62111999999996
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    438.20416,
+                    411.2848
+                ],
+                [
+                    505.22112000000004,
+                    503.4416
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    353.3344,
+                    443.61600000000004
+                ],
+                [
+                    412.38336,
+                    541.0662400000001
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Sin_Chaleco",
+            "points": [
+                [
+                    277.60416,
+                    448.21824
+                ],
+                [
+                    339.08064,
+                    540.44352
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    499.97952,
+                    357.01344000000006
+                ],
+                [
+                    533.39776,
+                    396.14880000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    440.352,
+                    374.92736
+                ],
+                [
+                    475.76192000000003,
+                    415.94624
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    353.15743999999995,
+                    411.07935999999995
+                ],
+                [
+                    387.5376,
+                    449.35456
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    280.40351999999996,
+                    413.23456
+                ],
+                [
+                    313.73024,
+                    451.84064
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    315.92768000000007,
+                    130.20384
+                ],
+                [
+                    345.52256000000006,
+                    169.704
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Casco",
+            "points": [
+                [
+                    380.85472,
+                    302.9488
+                ],
+                [
+                    409.23679999999996,
+                    338.64736000000005
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "1197_aug1.jpg",
+    "imageData": null,
+    "imageHeight": 640,
+    "imageWidth": 640
+}

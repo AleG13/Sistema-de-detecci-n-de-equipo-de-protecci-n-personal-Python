@@ -1,0 +1,26 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    191.0,
+                    151.799913
+                ],
+                [
+                    258.0,
+                    182.999931
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss56.png",
+    "imageData": null,
+    "imageHeight": 267,
+    "imageWidth": 400
+}

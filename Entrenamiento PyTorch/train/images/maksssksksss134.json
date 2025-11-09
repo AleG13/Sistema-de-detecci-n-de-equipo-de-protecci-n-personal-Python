@@ -1,0 +1,90 @@
+{
+    "version": "5.0.1",
+    "flags": {},
+    "shapes": [
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    92.0,
+                    37.5998625
+                ],
+                [
+                    117.0,
+                    49.9998375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    179.0,
+                    37.800112500000004
+                ],
+                [
+                    197.0,
+                    47.0001375
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    183.0,
+                    89.60017500000001
+                ],
+                [
+                    205.0,
+                    100.000125
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    269.0,
+                    81.39982499999999
+                ],
+                [
+                    285.0,
+                    88.999875
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        },
+        {
+            "label": "Con_Mascarrilla",
+            "points": [
+                [
+                    302.0,
+                    52.600049999999996
+                ],
+                [
+                    318.0,
+                    58.99995
+                ]
+            ],
+            "group_id": null,
+            "shape_type": "rectangle",
+            "flags": {}
+        }
+    ],
+    "imagePath": "maksssksksss134.png",
+    "imageData": null,
+    "imageHeight": 225,
+    "imageWidth": 400
+}

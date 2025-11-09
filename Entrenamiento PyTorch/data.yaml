@@ -1,0 +1,14 @@
+
+train: C:\Tu_Carpeta\train
+val: C:\Tu_Carpeta\valid
+
+nc: 5
+names: 
+  0: Con_Casco
+  1: Sin_Casco_Mascarrilla
+  2: Sin_Chaleco
+  3: Con_Chaleco
+  4: Con_Mascarrilla
+
+
+
